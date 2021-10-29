@@ -1,4 +1,4 @@
-# Kasina-Dheeraj
+# Kasina Dheeraj
 
 ### **Languages and tools**
 
@@ -48,7 +48,6 @@
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KasinaDheeraj&repo=DetectO&show_owner=true&theme=vision-friendly-dark)](https://github.com/KasinaDheeraj/DetectO)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KasinaDheeraj&repo=NEWSDROP&show_owner=true&theme=vision-friendly-dark)](https://github.com/KasinaDheeraj/NEWSDROP)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KasinaDheeraj&repo=Pedometer&show_owner=true&theme=vision-friendly-dark)](https://github.com/KasinaDheeraj/Pedometer)
 

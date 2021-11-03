@@ -44,9 +44,11 @@
 [![Dheeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=KasinaDheeraj&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KasinaDheeraj&theme=midnight-purple&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KasinaDheeraj&repo=DetectOLib&show_owner=true&theme=vision-friendly-dark)](https://github.com/KasinaDheeraj/DetectOLib)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KasinaDheeraj&repo=DetectO&show_owner=true&theme=vision-friendly-dark)](https://github.com/KasinaDheeraj/DetectO)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KasinaDheeraj&repo=NEWSDROP&show_owner=true&theme=vision-friendly-dark)](https://github.com/KasinaDheeraj/NEWSDROP)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KasinaDheeraj&repo=Pedometer&show_owner=true&theme=vision-friendly-dark)](https://github.com/KasinaDheeraj/Pedometer)
+
 
 ### *Contributor in*:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KasinaDheeraj&theme=dark)](https://git.io/streak-stats)

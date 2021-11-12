@@ -1,5 +1,13 @@
 # Kasina Dheeraj
 
+### Hi there 👋 , I'm Dheeraj - Android App Developer
+
+- 🔭 I’m currently a student and interested in android apps.
+- 🌱 I’m always trying to learn new things
+- 👯 I’m looking to collaborate on open-source projects on android, Java.
+
+
+
 ### **Languages and tools**
 
 <p align="left">
@@ -37,6 +45,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongoDB" width="45" height="45"/> 
   </a>  
 </p>
+
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=KasinaDheeraj&theme=buddhism)](https://github.com/ryo-ma/github-profile-trophy)

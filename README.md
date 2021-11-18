@@ -2,7 +2,7 @@
 
 ### Hi there 👋 , I'm Dheeraj - Android App Developer
 
-- 🔭 I’m currently a student and interested in android apps.
+- 🔭 I’m currently a student and interested in android apps development.
 - 🌱 I’m always trying to learn new things
 - 👯 I’m looking to collaborate on open-source projects on android, Java.
 
